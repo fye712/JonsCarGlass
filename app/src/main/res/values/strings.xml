@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">jons car</string>
+    <string name="title_activity_jons_car_service">jons car</string>
+    <string name="action_stop">Stop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speed">0</string>
+    <string name="accel">0</string>
+    <string name="gear">N</string>
+
+</resources>

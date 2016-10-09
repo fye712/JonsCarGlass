@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1094268762893",
+    "firebase_url": "https://jons-car.firebaseio.com",
+    "project_id": "jons-car",
+    "storage_bucket": "jons-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094268762893:android:c9567d790a624e3d",
+        "android_client_info": {
+          "package_name": "com.example.franklinye.jonsandroidcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094268762893-dl8hl7jbor90cei1unq4bbaoo01gmed7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPIXV-BkOhRJ91J7Lr6DR0XQwTkzs-Pw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094268762893:android:79b1f4359a1bfe06",
+        "android_client_info": {
+          "package_name": "com.example.franklinye.jonscar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094268762893-dl8hl7jbor90cei1unq4bbaoo01gmed7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPIXV-BkOhRJ91J7Lr6DR0XQwTkzs-Pw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
